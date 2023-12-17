@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<University>
+	<Student>
+		<Name>Alice</Name>
+		<ID>123456</ID>
+		<Email>alice@abc.com</Email>
+		<Address>123, Jalan MMU</Address>
+	</Student>
+	<Student>
+	    <Name>Bob</Name>
+		<ID>234567</ID>
+		<Email>bob@abc.com</Email>
+		<Address>456, Jalan MMU</Address>
+		</Student>
+	<Student>
+		<Name>Cathy</Name>
+		<ID>345678</ID>
+		<Email>cathy@abc.com</Email>
+		<Address>789, Jalan MMU</Address>
+	</Student>
+</University>
