@@ -32,7 +32,7 @@ void swap(DataType &x, DataType &y)
     DataType temp = x;
     x = y;
     y = temp;
-    cout << "Swapped " << setw(2) << x << " with " << setw(2) << y << " --->";
+    cout << "Swapped " << setw(2) << x << " with " << setw(2) << y << "\n";
 }
 
 void displayArray(const DataType theArray[], int first, int last)
